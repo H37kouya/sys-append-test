@@ -5,7 +5,7 @@
 ### Cli
 
 ```shell
-python src/cli.py
+python cli/main.py
 ```
 
 ### Jupyter
