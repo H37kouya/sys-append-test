@@ -7,4 +7,6 @@ sys.path.append(
 
 import app.main
 
-app.main.hello()
+if __name__ == '__main__':
+    app.main.hello()
+    app.main.test()
